@@ -1,0 +1,85 @@
+{
+  "total": 11,
+  "claimable": "150000000000",
+  "collections": {
+    "0xa4631a191044096834ce65d1ee86b16b171d8080": {
+      "count": 1,
+      "claimable": "50000000000",
+      "root": "0x8820db2a5f4bc40186e36ceeb556c2c0f053f1f860b09ab1ecf1193b1702659a",
+      "leaves": [
+        "0xb58599ed34c38d0ae39b603a58a6aafdc9a4c9a5306f0af2d88debb70c4e9ddd"
+      ]
+    },
+    "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6": {
+      "count": 2,
+      "claimable": "20000000000",
+      "root": "0x22fa19c6ea9b2a949e1b10deaf1b4065fd846bb70cb795605297a0907d53cbd5",
+      "leaves": [
+        "0x1906d40faf00e28ad96768740be80ee722cccf3383c2609d2d509a3570984598",
+        "0xc9aa6f7a6b5aa8cbb35142b6f2e16aa26a53a854a31bd20b3ecf8502d28dad7c"
+      ]
+    },
+    "0xf8b0a49da21e6381f1cd3cf43445800abe852179": {
+      "count": 2,
+      "claimable": "20000000000",
+      "root": "0xc30e7c4d86ac938839610e00d2217ee3b0dc359bf459f2b31056ba6633e53eff",
+      "leaves": [
+        "0x2091cffd87986a110edbd4583336aaea1ef2a2c21f06606ce2a1edd952cb7de4",
+        "0x2091cffd87986a110edbd4583336aaea1ef2a2c21f06606ce2a1edd952cb7de4"
+      ]
+    },
+    "0x7cae7b9b9a235d1d94102598e1f23310a0618914": {
+      "count": 1,
+      "claimable": "10000000000",
+      "root": "0x0c6721a7a42c259d55bd9ada2e1dce65f91197e1efa6302b2bb742090819144d",
+      "leaves": [
+        "0x39c054ce64a1f79fc2290f120b265652714b962014b8b9498eb4f2783668547c"
+      ]
+    },
+    "0x60e4d786628fea6478f785a6d7e704777c86a7c6": {
+      "count": 1,
+      "claimable": "10000000000",
+      "root": "0xb9a0aa86e64d75cf8eb62103329b5e5aacb8bffcc91e770720bff98bd4aa935c",
+      "leaves": [
+        "0x3fff2e0fc18a3a3b55e068096f83fe653df271aff7a3a28833c200e5ec01b71f"
+      ]
+    },
+    "0x12d2d1bed91c24f878f37e66bd829ce7197e4d14": {
+      "count": 1,
+      "claimable": "10000000000",
+      "root": "0x378ddb99a44928ba11dec25cfb0ec1e206e7314d0c7684d4e68fabd729775b6a",
+      "leaves": [
+        "0xec8cab3c5f8173c6b0fe2bcf34dcca582732ddd84ea161658c59f2a081c02228"
+      ]
+    },
+    "0xa094b1e927093fae077b6a89b440e2575de9143e": {
+      "count": 3,
+      "claimable": "30000000000",
+      "root": "0x62b01dbeabf08f55cadf49a1f3b308fcf219e55bfe635caff38566f9dae521fe",
+      "leaves": [
+        "0x9c0a375a609590dbc5ca1513716fdd964a5446289660165cea939ae40e599538",
+        "0xd01b757f28720fe3a2d30a8c815b5dcec9f89d10a1dc1852f1bf411f72575639",
+        "0x43fc5ab8221187364b66a94d3f567155a819f83bb16f5a1249bbe28cbf4691bc"
+      ]
+    }
+  },
+  "hash": "0x2306d94cc69db8435c56294ff7f27cf3a7d042f8965e2d76f38c63a616a937b0",
+  "proof": [
+    "0x285b85bab7c894fed706f012987a2e5960c9ca4b550aa7eec724d705dfe61a61",
+    "0x4d1250e11f9f9d9347795a38dd05971aab82c019c878a93473383d0bd0d1a26b",
+    "0x948a8f0dd3ff36a84cf911c63f12b9093251ba79b0d06eef9c8da3baff34e539",
+    "0x9e8885481c100e9d91817710714b0461592207fccb018ad6bac05d917e1c5869",
+    "0x903d17af809983457c1e2a07f376d3e0190eb7ea2f605c84b22d7099d508eaf2",
+    "0x44e428ce34e29dbf40706fd7bf7cdc943788b7f91fe7facd1e431c742a5c5e07",
+    "0xc6907e7ab8274895379c5573e7ad270ee8eb887fe2c2d541de33c3833620eb9c",
+    "0x9a1f69ec7d7a167d15b6ef939a5b7555581b35c612257be429cf69c023fa6ee1",
+    "0x8ec4b29b7ecfca7323ef290338f5bfd782869fc0a591cf75072155ec8d2cdb2f",
+    "0xa69fbcbc28597ea8bef8dbd73c2d6c302b43e7faf287b7cb7ceff9f508c27dfc",
+    "0x0975013f77ffc2bc3673037277fd415a2d0b32b87a8f6a19d70d5573c6e168ff",
+    "0x294a1cf66128893a77e59ed5893b4886d8367ff7569b3fe04e170b7f3ca85351",
+    "0x360b25482ead65d8e3b5e7d1019cc95f8a6df39fd2fed8d363acb3bbf355b597",
+    "0x60b5ce1ca84113234e9a4dca6d8830b3032f8e0778644aa3b40249754a5a7345",
+    "0x752b3fd01c0ac36d4e0c509c7035f528159957cc7b76274e9dad6cc924b237e5",
+    "0x544d774fc733539cb2b6044b33fdd70e7809ac83495f62ab1c83603b63ba0c17"
+  ]
+}
